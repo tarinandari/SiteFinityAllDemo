@@ -6,8 +6,9 @@ Web API
 
 SitefinityWebApp
 1. Restore database SiteFinityDemoDB.bak to local PC
-2. Build and run app
-3. Login to Sitefinity project using this credentials
+2. Change the value of the "ClientBaseAddress" in web.config to your own WebApi base address
+3. Then Build and run app
+4. The new MVC widget can be seen in Live Site
+5. Login to Sitefinity project using this credentials
 email : tarinandari@gmail.com
 password : Pass@word12345
-4. The new MVC widget can be seen in Live Site

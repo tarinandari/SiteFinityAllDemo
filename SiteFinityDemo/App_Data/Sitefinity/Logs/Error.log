@@ -2273,3 +2273,34 @@ Win32 ThreadId:3628
 
 Extended Properties: 
 ----------------------------------------
+----------------------------------------
+ActivityId: 84e81d19-ab43-42dc-b605-2e97b0c239ed
+
+Timestamp: 5/11/2021 12:47:35 PM
+
+Message: IdentityServer signing certificate is not configured. System will be using default IdentityServer certificate
+
+Category: ErrorLog
+
+Priority: -1
+
+EventId: 1
+
+Severity: Information
+
+Title:
+
+Machine: MTNB708
+
+App Domain: /LM/W3SVC/2/ROOT-1-132652107783087805
+
+ProcessId: 22652
+
+Process Name: C:\Program Files (x86)\IIS Express\iisexpress.exe
+
+Thread Name: 
+
+Win32 ThreadId:14092
+
+Extended Properties: 
+----------------------------------------
