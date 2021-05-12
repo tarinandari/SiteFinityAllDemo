@@ -51,3 +51,45 @@ Message: Application domain unload succeeded. StackTrace: '   at System.Environm
 
 
 ----------------------------------------
+----------------------------------------
+Timestamp: 5/12/2021 12:54:50 AM
+
+Message: Scheduler: Task executed: 'Telerik.Sitefinity.Authentication.IdentityServer.Data.TransientDataCleanupTask'. Start time: 5/12/2021 12:54:49 AM. End time: 5/12/2021 12:54:50 AM. Task data: ''
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/12/2021 12:54:51 AM
+
+Message: Scheduler: Task executed: 'Telerik.Sitefinity.Translations.Synchronization.TranslationSyncTask'. Start time: 5/12/2021 12:54:49 AM. End time: 5/12/2021 12:54:51 AM. Task data: ''
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/12/2021 12:54:51 AM
+
+Message: Scheduler: Task executed: 'Telerik.Sitefinity.ABTesting.Scheduling.ABTestsSyncTask'. Start time: 5/12/2021 12:54:49 AM. End time: 5/12/2021 12:54:51 AM. Task data: ''
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/12/2021 12:54:53 AM
+
+Message: Scheduler: Task executed: 'Telerik.Sitefinity.Translations.Synchronization.TranslationImportTask'. Start time: 5/12/2021 12:54:53 AM. End time: 5/12/2021 12:54:53 AM. Task data: ''
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/12/2021 12:54:58 AM
+
+Message: Scheduler: Task executed: 'Telerik.Sitefinity.UsageTracking.Scheduling.UsageTrackingTask'. Start time: 5/12/2021 12:54:49 AM. End time: 5/12/2021 12:54:58 AM. Task data: ''
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 5/12/2021 1:00:08 AM
+
+Message: Scheduler: Task executed: 'Telerik.Sitefinity.Versioning.Cleaner.VersioningCleanerTask'. Start time: 5/12/2021 1:00:08 AM. End time: 5/12/2021 1:00:08 AM. Task data: ''
+
+
+----------------------------------------
